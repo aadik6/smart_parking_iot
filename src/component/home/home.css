@@ -1,0 +1,190 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Hero Section Styles */
+  .hero {
+    background-color: #201658;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .hero h2 {
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+  }
+  
+  /* Features Section Styles */
+  .features {
+    padding: 50px;
+  }
+  
+  .features h2 {
+    margin-bottom: 20px;
+  }
+  
+  .feature {
+    text-align: center;
+  }
+  
+  .feature img {
+    width: 100px;
+  }
+  
+  /* How It Works Section Styles */
+  .how-it-works {
+    background-color: #f4f4f4;
+    padding: 50px;
+  }
+  
+  .how-it-works h2 {
+    margin-bottom: 20px;
+  }
+  
+  .steps {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .step {
+    text-align: center;
+  }
+  
+  .step img {
+    width: 100px;
+  }
+  
+  /* Testimonials Section Styles */
+  .testimonials {
+    padding: 50px;
+  }
+  
+  .testimonials h2 {
+    margin-bottom: 20px;
+  }
+  
+  .testimonial {
+    text-align: center;
+  }
+  
+  /* Pricing Section Styles */
+  .pricing {
+    background-color: #f4f4f4;
+    padding: 50px;
+  }
+  
+  .pricing h2 {
+    margin-bottom: 20px;
+  }
+  
+  .plans {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .plan {
+    background-color: #ddd;
+    padding: 20px;
+    text-align: center;
+    flex-basis: 30%;
+  }
+  
+  .plan h3 {
+    margin-bottom: 10px;
+  }
+  
+  .plan ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .plan ul li {
+    margin-bottom: 10px;
+  }
+  
+  .plan button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* About Us Section Styles */
+  .about-us {
+    padding: 50px;
+  }
+  
+  .about-us h2 {
+    margin-bottom: 20px;
+  }
+  
+  /* Contact Us Section Styles */
+  .contact-us {
+    padding: 50px;
+  }
+  
+  .contact-us h2 {
+    margin-bottom: 20px;
+  }
+  
+  /* Footer Section Styles */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer nav ul {
+    margin-bottom: 10px;
+  }
+  
+  footer nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  footer nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .social-media a {
+    color: #fff;
+    margin-right: 10px;
+  }
+  

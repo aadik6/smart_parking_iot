@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 3rem;
+    background-color: blue;
+}
+
+.right ol {
+    list-style: none;
+}
+
+.navbar .right ol{
+    display: flex;
+    gap: 20px;
+}
+
+.navbar li{
+    cursor: pointer;
+}
+
+.navbar .left{
+    cursor: pointer;
+}
